@@ -2,10 +2,10 @@
   "name": "40-exercise-vacunas",
   "version": "1.0.0",
   "description": "Crearás una base de datos en Mongo y una aplicación en Node que servirá tanto para rellenar la base de datos con datos de vacunación como para consultarlos mediante una API.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node .",
-    "start-dev": "nodemon . -q"
+    "start": "node src",
+    "start-dev": "nodemon src -q"
   },
   "repository": {
     "type": "git",
