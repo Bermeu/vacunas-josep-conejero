@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Pfizer",
+    "dosis": 2
+  },
+  {
+    "nombre": "Astrazeneca",
+    "dosis": 2
+  },
+  {
+    "nombre": "Moderna",
+    "dosis": 2
+  },
+  {
+    "nombre": "Janssen",
+    "dosis": 1
+  }
+]
